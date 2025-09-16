@@ -1,8 +1,8 @@
 # DDS2PNG Converter (GUI)
 
-A simple Windows tool with drag & drop support to convert `.dds` textures into `.png` images using Microsoft’s `texconv.exe` from the [DirectXTex project](https://github.com/microsoft/DirectXTex).
+A simple Windows tool with drag & drop support to convert `.dds` textures into `.png` or other image formats, using Microsoft’s `texconv.exe` from the [DirectXTex project](https://github.com/microsoft/DirectXTex).
 
-This tool was created for modders and developers who want a straightforward GUI instead of typing commands in a console.
+This tool was created for modders and developers who want a straightforward GUI and to be able to mass convert textures instead of typing commands in a console.
 
 ---
 
@@ -31,16 +31,6 @@ This tool was created for modders and developers who want a straightforward GUI 
 3. Set your output folder (where converted PNGs will be saved).  
 4. Click **Convert**.  
 5. Your PNGs will be ready in the output folder.
-
----
-
-## Screenshots
-
-*(Insert screenshots of your app interface and conversion results here.)*
-
----
-
-## License and Attribution
 
 This project is released under the [MIT License](LICENSE).
 
