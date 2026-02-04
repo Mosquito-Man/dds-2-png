@@ -2,8 +2,9 @@
 
 A simple Windows tool with drag & drop support to convert `.dds` textures into `.png` or other image formats, using Microsoft’s `texconv.exe` from the [DirectXTex project](https://github.com/microsoft/DirectXTex).
 
-This tool was created for modders and developers who want a straightforward GUI and to be able to mass convert textures instead of typing commands in a console.
+This tool was created for modders and developers who want a straightforward GUI and to be able to mass convert textures instead of typing different commands in a console.
 
+---
 ---
 
 ## Features
